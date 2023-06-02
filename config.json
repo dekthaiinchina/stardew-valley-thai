@@ -1,0 +1,10 @@
+{
+  "ThaiInterface": "true",
+  "TidyCraftingMenu": "true",
+  "Rare Seed": "true",
+  "Burglar Ring": "true",
+  "LooseSprites": "Billboard, ControllerMaps, Cursors, JojaCDForm, JunimoNote",
+  "Maps": "bathhouse_tiles, coopTiles, DesertTiles, fall_beach, fall_outdoorsTileSheet, fall_town, Festivals, samshowtiles, spring_beach, spring_outdoorsTileSheet, spring_town, springobjects, summer_beach, summer_outdoorsTileSheet, summer_town, TownIndoors, townInterior, winter_beach, winter_outdoorsTileSheet, winter_town",
+  "Minigames": "Intro, jojacorps, TitleButtons",
+  "TileSheets": "furniture"
+}

@@ -1,0 +1,20 @@
+{
+  "UnderConstruction": "อยู่ระหว่างการก่อสร้าง",
+  "DismountBeforeEntering": "ลงจากหลังม้าก่อน",
+  "PiecesOfHay": "ฟางที่เก็บไว้: {0}/{1}",
+  "AddedHay": "เพิ่มฟางในยุ้งฉาง {0} ชิ้น",
+  "MillFull": "ไม่มีพื้นที่ว่าง",
+  "CantMill": "ไม่สามารถบดได้",
+  "NeedSilo": "ต้องการยุ้งฉาง",
+  "CantEnter": "ไม่สามารถเติมใด้ในตอนนี้",
+  "WrongFishType": "{0} ของคุณ ไม่ต้องการ {1} ในนี้",
+  "WrongFishTypeCoral": "{0} สามารถเลี้ยง {0} ได้เท่านั้น",
+  "CantPutInPonds": "{0} พวกเราไม่มีความสุขในบ่อนี้เลย",
+  "NoFish": "สามารถเลี้ยงปลาในบ่อนี้ได้",
+  "PondFull": "บ่อนี้เต็มแล้ว",
+  "Paint_Region_Building": "อาคาร",
+  "Paint_Region_Roof": "หลังคา",
+  "Paint_Region_Trim": "ขอบและประตู",
+  "BuildingSkinMenu_ChooseAppearance": "เลือกรูปลักษณ์สำหรับ {0} ของคุณ",
+  "Construction_ChooseLocation": "คุณต้องการจัดการอาคารที่ไหน?"
+}

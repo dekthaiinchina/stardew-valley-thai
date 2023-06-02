@@ -1,0 +1,21 @@
+﻿{
+    // appearance
+    "config.section.Appearance.name": "สิ่งที่ปรากฎ",
+    "config.section.Appearance.description": "สิ่งที่ปรากฎในเกม",
+    "config.ThaiInterface.name": "อินเตอร์เฟซภาษาไทย",
+    "config.ThaiInterface.description": "ป้ายร้านค้าและเอกสารต่างๆ ภายในเกมเป็นภาษาไทย",
+    "config.TidyCraftingMenu.name": "จัดระเบียบเมนูการคราฟ",
+    "config.TidyCraftingMenu.description": "ทำให้เมนูการคราฟเป็นระเบียบมากยิ่งขึ้น",
+
+    // new crafting recipes
+    "config.section.New Crafting Recipes.name": "สูตรคราฟใหม่",
+    "config.section.New Crafting Recipes.description": "เพิ่มสูตรคราฟใหม่ลงในเมนูการคราฟ",
+    "config.Rare Seed.name": "Rare Seed",
+    "config.Rare Seed.description": "(เมล็ดหายาก) หว่านในฤดูใบไม้ร่วง ต้องใช้เวลาทั้งหมดในฤดูกาลเพื่อการเจริญเติบโต",
+    "config.Burglar Ring.name": "Burglar's Ring",
+    "config.Burglar Ring.description": "(แหวนจอมขโมย) มีโอกาสมากขึ้นที่มอนสเตอร์จะดรอปของ",
+
+    // details
+    "config.section.Details.name": "รายละเอียด",
+    "config.section.Details.description": "รายละเอียดต่างๆ ของอินเตอร์เฟซที่เปิดใช้งาน หากคุณพบปัญหา เช่น\n\nTwo content packs want to load the 'TileSheets/furniture' ...\n\nให้คุณปิดตัวเลือก  TileSheets: furniture  ด้านล่าง  (x คือเปิดใช้งาน)\nหรือ ติดต่อผู้พัฒนาม็อดภาษาไทย เพื่อให้สามารถทำงานร่วมกับม็อดดังกล่าวได้"
+}

@@ -1,0 +1,53 @@
+{
+    "Changes": [
+        // the text is shown in Junimo language
+        {
+            "Action": "EditData",
+            "Target": "Strings/Locations",
+            "Entries": {
+                "CommunityCenter_AreaName_CraftsRoom": "Crafts Room"
+            },
+            "When": {
+                "Language": "th",
+                "HasFlag |contains=canReadJunimoText": false
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Strings/StringsFromCSFiles",
+            "Entries": {
+                "JunimoNoteMenu.cs.10786": "We    the  Junimo are    happy to    aid  you.  In     return we     ask for gifts   of      the valley.    If you   are one     with    forest   magic    then you    will   see    the true    nature   of  this scroll."
+            },
+            "When": {
+                "Language": "th",
+                "HasFlag |contains=canReadJunimoText": false
+            }
+        },
+
+        // fix Pierre's map tooltip
+        {
+            "Action": "EditData",
+            "Target": "Strings/StringsFromCSFiles",
+            "Entries": {
+                "MapPage.cs.11080": "เปิด 9:00 AM ถึง 5:00 PM"
+            },
+            "When": {
+                "Language": "th",
+                "HasSeenEvent": "191393",
+                "IsCommunityCenterComplete": true
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Strings/StringsFromMaps",
+            "Entries": {
+                "Town.2": "ร้านขายของทั่วไป เปิด 9:00 AM ถึง 5:00 PM"
+            },
+            "When": {
+                "Language": "th",
+                "HasSeenEvent": "191393",
+                "IsCommunityCenterComplete": true
+            }
+        }
+    ]
+}
