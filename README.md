@@ -1,2 +1,1 @@
-# stardew-valley-thai
- 
+_stardew valley - localization projects_
